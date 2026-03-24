@@ -60,3 +60,9 @@ Veriler UTF-8 formatında doğru şekilde saklanmaktadır.
 - Added interests field to users collection
 - interests defined as Array
 - Each user has multiple interest values
+
+## Week 8 - Firestore Indexing
+
+- Created composite index for events collection
+- Fields: university, external_allowed
+- Enabled efficient querying for multiple filters
